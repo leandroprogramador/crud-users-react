@@ -72,6 +72,9 @@ form {
     background-color: transparent;
     border: none;
     cursor: pointer;
+    align-self: flex-start;
+    
+    
       
   }
 
